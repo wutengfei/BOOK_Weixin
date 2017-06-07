@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">图书管理系统</string>
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="menu_stu_add">添加学生信息</string>
+    <string name="menu_book">批量插入图书</string>
+    <string name="menu_add_book">添加图书信息</string>
+    <string name="menu_stu">批量插入学生</string>
+    <string name="tab_student">学生管理</string>
+    <string name="tab_book">图书管理</string>
+    <string name="tab_borrow">借阅管理</string>
+</resources>

@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_feedback_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\menu_feedback_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\men_scan_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\men_scan_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\men_scan_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\men_scan_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_search_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_search_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_add_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_add_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_feedback_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\menu_feedback_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_add_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_add_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_group_chat_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\menu_group_chat_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_add_book.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\menu_add_book.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_add_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\menu_add_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_group_chat_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\menu_group_chat_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_add_icon.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\menu_add_icon.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\menu_add_book.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-xxhdpi\\menu_add_book.png"
+    }
+]

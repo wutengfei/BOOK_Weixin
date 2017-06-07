@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_emoticons.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_start_conversation.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_allfriends.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_allfriends.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_emoticons.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_friendslist.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_friendslist.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_start_conversation.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    }
+]

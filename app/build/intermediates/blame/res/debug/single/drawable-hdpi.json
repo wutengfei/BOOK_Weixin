@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_settings_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_address_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_find_frd_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_settings_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-hdpi\\tab_settings_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_find_frd_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-hdpi\\tab_find_frd_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weixin_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_address_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tab_weixin_normal.png",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\drawable-hdpi\\tab_weixin_normal.png"
+    }
+]

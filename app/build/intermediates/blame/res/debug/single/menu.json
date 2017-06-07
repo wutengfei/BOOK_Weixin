@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "E:\\Android\\BookManageSystem\\weixin6_0\\app\\src\\main\\res\\menu\\menu.xml"
+    }
+]
