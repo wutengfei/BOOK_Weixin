@@ -57,14 +57,12 @@ public class BookControl {
         }
         dbAdapter.db.setTransactionSuccessful();//设置事务标志为成功，当结束事务时就会提交事务
         dbAdapter.db.endTransaction();//结束事务
-
         return true;
-
     }
 
     //删除所有图书
     public long deleteAll() {
-       return dbAdapter.deleteAllDataBook();
+        return dbAdapter.deleteAllDataBook();
     }
 
     //删除单本书

@@ -14,5 +14,9 @@
     {
         "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\student1.txt",
         "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\raw\\student1.txt"
+    },
+    {
+        "merged": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\build\\intermediates\\res\\merged\\debug\\raw\\book.txt",
+        "source": "E:\\Android\\BookManageSystem\\BOOK_Weixin\\app\\src\\main\\res\\raw\\book.txt"
     }
 ]

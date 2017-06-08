@@ -17,10 +17,10 @@
         android:id="@+id/action_add_book"
         android:icon="@drawable/menu_add_book"
         android:title="@string/menu_add_book"/>
-    <item
+ <!--   <item
         android:id="@+id/action_stu"
         android:icon="@drawable/men_scan_icon"
-        android:title="@string/menu_stu"/>
+        android:title="@string/menu_stu"/>-->
     <item
         android:id="@+id/action_book"
         android:icon="@drawable/menu_feedback_icon"

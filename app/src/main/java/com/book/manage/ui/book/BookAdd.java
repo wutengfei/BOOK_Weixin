@@ -113,9 +113,4 @@ public class BookAdd extends Activity {
 
     }
 
-//    public void insertMany(View v){
-//        Intent intent = new Intent(this,BookInsertSome.class);
-//        startActivity(intent);
-//
-//    }
 }
